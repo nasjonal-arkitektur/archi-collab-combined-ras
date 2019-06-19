@@ -25,4 +25,7 @@
   <properties
       key="difi:description_en"
       value="Metadata includes planning, implementation, and control activities to enable access to high quality, integrated Metadata, including definitions, models, data flows, and other information critical to understanding data and the systems through which it is created, maintained, and accessed."/>
+  <properties
+      key="drill down"
+      value="4988432c-96a2-4dae-9676-8313dc1eb6b7"/>
 </archimate:Capability>

@@ -25,4 +25,7 @@
   <properties
       key="difi:description_en"
       value="Reference and Master Data includes ongoing reconciliation and maintenance of core critical shared data to enable consistent use across systems of the most accurate, timely, and relevant version of truth about essential business entities."/>
+  <properties
+      key="drill down"
+      value="3a9a4884-e63f-42f1-9785-9de45ebde677"/>
 </archimate:Capability>

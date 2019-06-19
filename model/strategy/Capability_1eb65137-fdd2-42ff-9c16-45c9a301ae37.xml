@@ -25,4 +25,7 @@
   <properties
       key="difi:description_en"
       value="Data Storage and Operations includes the design, implementation, and support of stored data to maximize its value. Operations provide support throughout the data lifecycle from planning for to disposal of data."/>
+  <properties
+      key="drill down"
+      value="9567ade4-22f0-4dce-8b39-68e5a58d9a64"/>
 </archimate:Capability>

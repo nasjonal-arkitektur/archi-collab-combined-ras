@@ -25,4 +25,7 @@
   <properties
       key="difi:description_en"
       value="Document and Content Management includes planning, implementation, and control activities used to manage the lifecycle of data and information found in a range of unstructured media, especially documents needed to support legal and regulatory compliance requirements."/>
+  <properties
+      key="drill down"
+      value="57bbefd5-f565-40b6-af22-bf614435dd3e"/>
 </archimate:Capability>

@@ -25,4 +25,7 @@
   <properties
       key="difi:description_en"
       value="Data Security ensures that data privacy and confidentiality are maintained, that data is not breached, and that data is accessed appropriately"/>
+  <properties
+      key="drill down"
+      value="fa091ec5-46e1-4785-bbdd-8985ba61ed06"/>
 </archimate:Capability>

@@ -25,4 +25,7 @@
   <properties
       key="difi:description_en"
       value="Data Warehousing and Business Intelligence includes the planning, implementation, and control processes to manage decision support data and to enable knowledge workers to get value from data via analysis and reporting"/>
+  <properties
+      key="drill down"
+      value="24446025-cd7a-4ec5-807a-47bcd571108d"/>
 </archimate:Capability>

@@ -318,7 +318,9 @@
           targetConnections="e03694d9-fdaa-4f1e-a505-9a8e1b262336">
         <bounds
             x="584"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_ee469dea-b0d9-41c5-83bf-93bf36551da8.xml#ee469dea-b0d9-41c5-83bf-93bf36551da8"/>
@@ -329,7 +331,9 @@
           targetConnections="2e00f575-a76f-4067-b8d1-cbccc3fe585d">
         <bounds
             x="1442"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_51412d3b-8442-46bd-a2f0-da3082fd01f5.xml#51412d3b-8442-46bd-a2f0-da3082fd01f5"/>
@@ -340,7 +344,9 @@
           targetConnections="719744db-e906-4f79-b700-5a1f01664f31">
         <bounds
             x="155"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_4bfdce3d-5769-4803-ac4b-fe62bb2584ed.xml#4bfdce3d-5769-4803-ac4b-fe62bb2584ed"/>
@@ -351,7 +357,9 @@
           targetConnections="0764dab3-60a5-4524-9540-b44ad2b3d719">
         <bounds
             x="1728"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_c469be93-d063-44cc-b3ef-530c47a1a743.xml#c469be93-d063-44cc-b3ef-530c47a1a743"/>
@@ -362,7 +370,9 @@
           targetConnections="7d8bf816-e6d9-40f7-afd2-945229994130">
         <bounds
             x="727"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_473f28da-fd51-4838-94e1-9ba18fa7e33c.xml#473f28da-fd51-4838-94e1-9ba18fa7e33c"/>
@@ -373,7 +383,9 @@
           targetConnections="80e3413f-f0f9-4e6b-b128-26d1c1bd9efc">
         <bounds
             x="1013"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_8071ddd7-01d9-4077-9662-6689b6260771.xml#8071ddd7-01d9-4077-9662-6689b6260771"/>
@@ -384,7 +396,9 @@
           targetConnections="b216cdb0-94aa-4ac8-9aeb-472435faa9eb">
         <bounds
             x="441"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_948f1f37-4f17-49a3-be4d-98eee1067761.xml#948f1f37-4f17-49a3-be4d-98eee1067761"/>
@@ -395,7 +409,9 @@
           targetConnections="2b6d3bc0-d32e-48a6-8341-fe504da09989">
         <bounds
             x="1299"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_df0ce784-3f50-450c-b546-c9afbf20cc91.xml#df0ce784-3f50-450c-b546-c9afbf20cc91"/>
@@ -406,7 +422,9 @@
           targetConnections="2a85b278-85bb-4e0f-b42f-b437159730ff">
         <bounds
             x="1871"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_7bd0c809-7b91-4782-94c4-4adbe7021c9d.xml#7bd0c809-7b91-4782-94c4-4adbe7021c9d"/>
@@ -417,7 +435,9 @@
           targetConnections="3223800f-1c53-464e-b05f-ffb27c52ae14">
         <bounds
             x="1156"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_b397357f-dcc8-4acb-9e0f-b7eeee1f4638.xml#b397357f-dcc8-4acb-9e0f-b7eeee1f4638"/>
@@ -428,7 +448,9 @@
           targetConnections="1a2f4840-faf8-4bcf-8e76-68ac3d5638d6">
         <bounds
             x="298"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_3c9cfded-9787-4e8b-9700-4e6f3dc593cd.xml#3c9cfded-9787-4e8b-9700-4e6f3dc593cd"/>
@@ -439,7 +461,9 @@
           targetConnections="def0218e-fa7e-4046-8164-1bbb46445932">
         <bounds
             x="1585"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_03cf6233-a140-4d48-a374-18e46029328f.xml#03cf6233-a140-4d48-a374-18e46029328f"/>
@@ -450,7 +474,9 @@
           targetConnections="c441d820-744c-4a3a-9ee1-0c4479b26b2e">
         <bounds
             x="12"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_e456b302-1424-457c-8fea-759165990d8d.xml#e456b302-1424-457c-8fea-759165990d8d"/>
@@ -461,7 +487,9 @@
           targetConnections="23ac4365-26d6-4d57-af0d-d29fd7174393">
         <bounds
             x="870"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_0fb3a0ca-24b1-428b-9a03-c17aff6f2a65.xml#0fb3a0ca-24b1-428b-9a03-c17aff6f2a65"/>
@@ -592,7 +620,9 @@
           targetConnections="68ac3b54-65a2-4262-8c0e-ef1a3e7b3c0d">
         <bounds
             x="436"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_fa04d64a-2c2e-489b-a7ce-13eba1ce61ea.xml#fa04d64a-2c2e-489b-a7ce-13eba1ce61ea"/>
@@ -603,7 +633,9 @@
           targetConnections="72c5c6bc-3c06-4b44-bb5d-4e6117fb830c">
         <bounds
             x="150"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_ae7bd599-f4df-40a0-921f-c9efdb1cf90d.xml#ae7bd599-f4df-40a0-921f-c9efdb1cf90d"/>
@@ -614,7 +646,9 @@
           targetConnections="2f6d73d9-6a4a-4dc1-90f1-fc9d0065bcab">
         <bounds
             x="579"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_6a32597a-fc18-4380-9360-81bd05f298a3.xml#6a32597a-fc18-4380-9360-81bd05f298a3"/>
@@ -625,7 +659,9 @@
           targetConnections="88314385-207c-43c3-8b58-ac8cf1308061">
         <bounds
             x="7"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_af50d4ce-7472-4129-a819-ff669083f1b3.xml#af50d4ce-7472-4129-a819-ff669083f1b3"/>
@@ -636,7 +672,9 @@
           targetConnections="25fe6e0d-fa6e-42d1-95fe-017c90d67d62">
         <bounds
             x="293"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_6a671a8b-b34c-4a5a-8b8f-8fa6955eb32d.xml#6a671a8b-b34c-4a5a-8b8f-8fa6955eb32d"/>
@@ -647,7 +685,9 @@
           targetConnections="1e6448e7-47e7-4483-b0d6-89fd7f37c433">
         <bounds
             x="865"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_672ff940-c5e2-449f-b482-296d4c025e0f.xml#672ff940-c5e2-449f-b482-296d4c025e0f"/>
@@ -658,7 +698,9 @@
           targetConnections="cccb172d-1d7a-4932-ab08-c3dd4999ce4c">
         <bounds
             x="722"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_11963b66-189d-4c0b-831b-912fb809cf8c.xml#11963b66-189d-4c0b-831b-912fb809cf8c"/>
@@ -669,7 +711,9 @@
           targetConnections="0a0dd1af-60f1-419a-a51e-b35a1c0354e2">
         <bounds
             x="1008"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_2f9dc6a2-8703-4a9c-92b6-9aa6fe9576be.xml#2f9dc6a2-8703-4a9c-92b6-9aa6fe9576be"/>
@@ -687,7 +731,9 @@
       id="b3fcc0fd-1700-466d-ac72-517ea74f1399">
     <bounds
         x="2642"
-        y="492"/>
+        y="492"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_0560cfba-7cb7-4196-98db-ad77c7bb977e.xml#0560cfba-7cb7-4196-98db-ad77c7bb977e"/>
@@ -697,7 +743,9 @@
       id="61be3e8c-92a7-4958-a094-537fb10f0e33">
     <bounds
         x="2785"
-        y="492"/>
+        y="492"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_06506bda-74f6-4441-b2a0-dd02b031f4b9.xml#06506bda-74f6-4441-b2a0-dd02b031f4b9"/>
@@ -707,7 +755,9 @@
       id="a912c003-8096-427e-aeef-745f179551ed">
     <bounds
         x="2928"
-        y="492"/>
+        y="492"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_99cc06ad-9b2c-4735-9ea9-e4dbb909ea75.xml#99cc06ad-9b2c-4735-9ea9-e4dbb909ea75"/>
@@ -717,7 +767,9 @@
       id="87517534-cd90-42e5-8586-6686f5ece0fd">
     <bounds
         x="259"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_efa209d2-484b-4830-8403-bd70f2f983ba.xml#efa209d2-484b-4830-8403-bd70f2f983ba"/>
@@ -727,7 +779,9 @@
       id="1cb01af7-1d58-42e9-83dc-878c4fa2f0f1">
     <bounds
         x="402"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_3480a7b9-4d45-41a3-9798-d43897abe57d.xml#3480a7b9-4d45-41a3-9798-d43897abe57d"/>
@@ -737,7 +791,9 @@
       id="b84c70ca-d160-4350-b4fe-4c370ed316db">
     <bounds
         x="545"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_a8a27e8f-d0ae-43c3-b29f-03ce01d18429.xml#a8a27e8f-d0ae-43c3-b29f-03ce01d18429"/>
@@ -747,7 +803,9 @@
       id="06ee4c66-aaed-4c37-a5c8-f98e10f23143">
     <bounds
         x="688"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_2c4cb5dc-edae-4f48-b046-f2eed3f436c7.xml#2c4cb5dc-edae-4f48-b046-f2eed3f436c7"/>
@@ -757,7 +815,9 @@
       id="306b22b9-86d7-488c-8730-5a5a17552c47">
     <bounds
         x="831"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_1edb3611-e76a-4e93-9a97-363ff7eec01b.xml#1edb3611-e76a-4e93-9a97-363ff7eec01b"/>
@@ -767,7 +827,9 @@
       id="b9e31c99-63ba-427c-8046-2f1e6b00bfae">
     <bounds
         x="974"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_e0bebe7b-5a3e-41c4-882b-ba0cf5b17cf9.xml#e0bebe7b-5a3e-41c4-882b-ba0cf5b17cf9"/>
@@ -777,7 +839,9 @@
       id="6a9ebe41-4d9d-4a47-8e98-056a7b2b643b">
     <bounds
         x="1117"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_c892f777-4b00-47b2-a9ee-463c64ce28cc.xml#c892f777-4b00-47b2-a9ee-463c64ce28cc"/>
@@ -787,7 +851,9 @@
       id="16bea947-07a9-4775-9d83-af73ff041c62">
     <bounds
         x="1260"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_fa1ef9e3-a602-43d5-b861-53b6fc83bb04.xml#fa1ef9e3-a602-43d5-b861-53b6fc83bb04"/>
@@ -797,7 +863,9 @@
       id="b495bc04-5d9d-4cb1-9e9e-add26bba222e">
     <bounds
         x="1403"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_a31ac565-3101-4883-acd0-add10f146711.xml#a31ac565-3101-4883-acd0-add10f146711"/>
@@ -807,7 +875,9 @@
       id="d63a5e9e-26a4-4820-9b96-181850d313bd">
     <bounds
         x="1546"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_317a1745-4ae5-44c6-98e0-ef77e5f805b9.xml#317a1745-4ae5-44c6-98e0-ef77e5f805b9"/>
@@ -817,7 +887,9 @@
       id="b71aaa33-6500-4ec1-a7b7-7bf358858ca6">
     <bounds
         x="1689"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_deef44b8-dda6-4932-87d6-4482da03748a.xml#deef44b8-dda6-4932-87d6-4482da03748a"/>
@@ -827,7 +899,9 @@
       id="8731a154-5c55-472a-a4f9-4244ede19e85">
     <bounds
         x="1832"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_6c9a19f4-06db-4682-9891-7bcc02a919ad.xml#6c9a19f4-06db-4682-9891-7bcc02a919ad"/>
@@ -837,7 +911,9 @@
       id="28274d8d-e3a3-4f33-83b5-e9e6f4217198">
     <bounds
         x="1975"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_7bf4eefe-1d2b-4158-bd33-86b116cf04b0.xml#7bf4eefe-1d2b-4158-bd33-86b116cf04b0"/>
@@ -847,7 +923,9 @@
       id="b219c5c0-1a89-454b-9297-70563a6f4df8">
     <bounds
         x="2118"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_5500f595-57f9-48a5-9f64-66e9660764d7.xml#5500f595-57f9-48a5-9f64-66e9660764d7"/>
@@ -857,7 +935,9 @@
       id="574bf658-626f-47f8-a39f-f41eff4c26c0">
     <bounds
         x="2261"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_f7b11a0d-ef18-444d-b3d1-38b684f6ee90.xml#f7b11a0d-ef18-444d-b3d1-38b684f6ee90"/>
@@ -867,7 +947,9 @@
       id="47d8b26a-019b-49ac-80dd-df602942789d">
     <bounds
         x="2404"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_76cc09d6-8787-472b-9419-87d347baa8e0.xml#76cc09d6-8787-472b-9419-87d347baa8e0"/>
@@ -877,7 +959,9 @@
       id="a3dea83c-db7a-4de7-a169-9b081c6081b7">
     <bounds
         x="2547"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_c0caa8d3-4425-41eb-9cc6-345f9454113d.xml#c0caa8d3-4425-41eb-9cc6-345f9454113d"/>
@@ -887,7 +971,9 @@
       id="b87e23b6-42ff-46eb-a535-3db518087f81">
     <bounds
         x="2690"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_08161e35-c591-4155-8ee2-ccaec895cf9b.xml#08161e35-c591-4155-8ee2-ccaec895cf9b"/>
@@ -897,7 +983,9 @@
       id="ec37deeb-c006-4e64-a857-e536cab58020">
     <bounds
         x="2833"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_75fabf55-27cf-4431-acc2-a34471b77cf3.xml#75fabf55-27cf-4431-acc2-a34471b77cf3"/>
@@ -907,7 +995,9 @@
       id="6345b5c1-0e6a-4955-b79d-6c51574cac41">
     <bounds
         x="2976"
-        y="648"/>
+        y="648"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_916e6a1c-f038-4d33-adaf-54f47101f293.xml#916e6a1c-f038-4d33-adaf-54f47101f293"/>
@@ -917,7 +1007,9 @@
       id="c883f65b-5715-4461-8054-6878a47d2838">
     <bounds
         x="2785"
-        y="780"/>
+        y="780"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_ea770758-2f3c-4db8-8a62-2f3890da28b8.xml#ea770758-2f3c-4db8-8a62-2f3890da28b8"/>
@@ -927,7 +1019,9 @@
       id="07eb639b-ccbd-4e02-9154-33ba7802d804">
     <bounds
         x="2928"
-        y="780"/>
+        y="780"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_9fa96dcf-1e37-478b-a493-1ea5f72b9d45.xml#9fa96dcf-1e37-478b-a493-1ea5f72b9d45"/>
@@ -937,7 +1031,9 @@
       id="9ecdd892-6a73-4a88-9b50-ef4b15a7b024">
     <bounds
         x="2250"
-        y="912"/>
+        y="912"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_4246a5bf-f471-47e1-8843-6a4b5f89bd9a.xml#4246a5bf-f471-47e1-8843-6a4b5f89bd9a"/>
@@ -947,7 +1043,9 @@
       id="b8c378ac-9f9f-420e-be41-7f9fcbc1843a">
     <bounds
         x="2393"
-        y="912"/>
+        y="912"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_2391cd8c-4044-4ab2-8fd8-f97964462a89.xml#2391cd8c-4044-4ab2-8fd8-f97964462a89"/>
@@ -957,7 +1055,9 @@
       id="5b8352b5-c0c9-4c24-a58c-81d1538b5329">
     <bounds
         x="2536"
-        y="912"/>
+        y="912"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_b9b00986-cd1c-4a15-882a-478cb28ae8dd.xml#b9b00986-cd1c-4a15-882a-478cb28ae8dd"/>
@@ -967,7 +1067,9 @@
       id="b003e7b3-48c9-4af0-bbbb-d3ceccbbad5d">
     <bounds
         x="2679"
-        y="912"/>
+        y="912"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_9da0388f-a20a-43e5-966f-b5a9473a23ca.xml#9da0388f-a20a-43e5-966f-b5a9473a23ca"/>
@@ -977,7 +1079,9 @@
       id="2155810e-cb7d-4174-9b4d-701c22d88b87">
     <bounds
         x="2822"
-        y="912"/>
+        y="912"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_d4d0de83-9663-45a5-bf2b-a38fb6ead2ad.xml#d4d0de83-9663-45a5-bf2b-a38fb6ead2ad"/>
@@ -987,7 +1091,9 @@
       id="ea8d424d-3dda-446f-bce5-f6ba004bf354">
     <bounds
         x="2965"
-        y="912"/>
+        y="912"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_f9bce46d-e4c5-42ac-874e-3c3f99fd20d9.xml#f9bce46d-e4c5-42ac-874e-3c3f99fd20d9"/>
@@ -997,7 +1103,9 @@
       id="daba4c57-6be4-48b6-bebb-e61dfd35ec0a">
     <bounds
         x="96"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_2569d0e5-f016-42f0-be34-9c88ef423c57.xml#2569d0e5-f016-42f0-be34-9c88ef423c57"/>
@@ -1007,7 +1115,9 @@
       id="f9bfdb16-10a8-4992-9fde-5948f3d2a26e">
     <bounds
         x="239"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_eb39d4e3-5434-440a-8439-84ccf57bad33.xml#eb39d4e3-5434-440a-8439-84ccf57bad33"/>
@@ -1017,7 +1127,9 @@
       id="33594df3-22fb-4452-a133-31537d14330a">
     <bounds
         x="382"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_1cb3cf45-b465-4bb6-9f16-1161989744fc.xml#1cb3cf45-b465-4bb6-9f16-1161989744fc"/>
@@ -1027,7 +1139,9 @@
       id="cde928e3-574c-43b5-a2fd-c509d06ac912">
     <bounds
         x="525"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_3941dca0-9d03-452d-9c05-a9eddd7cc6d3.xml#3941dca0-9d03-452d-9c05-a9eddd7cc6d3"/>
@@ -1037,7 +1151,9 @@
       id="9999768c-6e21-4b06-abca-595fb15270dc">
     <bounds
         x="668"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_fd3d5fc7-3190-4c1c-9fc6-2e175cfdf2d5.xml#fd3d5fc7-3190-4c1c-9fc6-2e175cfdf2d5"/>
@@ -1047,7 +1163,9 @@
       id="72e0421a-6e49-4664-890c-6efd354058c7">
     <bounds
         x="811"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_07940c32-18ee-462f-adc8-bb2110718fc6.xml#07940c32-18ee-462f-adc8-bb2110718fc6"/>
@@ -1057,7 +1175,9 @@
       id="5ceb4f75-d0f2-4916-a326-27c1d488bf69">
     <bounds
         x="954"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_2ade2210-28f0-4633-93f7-a4efab415038.xml#2ade2210-28f0-4633-93f7-a4efab415038"/>
@@ -1067,7 +1187,9 @@
       id="4533ddc7-587c-494b-8fdf-9d2ce2d49b22">
     <bounds
         x="1097"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_f3bea80c-f39a-4cd0-adaa-4190c6269587.xml#f3bea80c-f39a-4cd0-adaa-4190c6269587"/>
@@ -1077,7 +1199,9 @@
       id="fdce9625-5b1f-431c-bb07-e402c9777c7c">
     <bounds
         x="1240"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_e021dffd-b7b7-4c3f-8740-5d183045f38c.xml#e021dffd-b7b7-4c3f-8740-5d183045f38c"/>
@@ -1087,7 +1211,9 @@
       id="1609e68b-c653-4ba1-ac3f-0906ad608c35">
     <bounds
         x="1383"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_62a2e295-0af8-44b4-bd9b-f01226e5b907.xml#62a2e295-0af8-44b4-bd9b-f01226e5b907"/>
@@ -1097,7 +1223,9 @@
       id="86be63eb-3842-4f31-8118-4d36a7f61d74">
     <bounds
         x="1526"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_ec41f295-7e06-4e69-8085-2d105c6feb3f.xml#ec41f295-7e06-4e69-8085-2d105c6feb3f"/>
@@ -1107,7 +1235,9 @@
       id="b4385e60-b619-4a0e-956c-613e0b8252cd">
     <bounds
         x="1669"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_32917f18-fc85-481d-b673-6bc7cb592a15.xml#32917f18-fc85-481d-b673-6bc7cb592a15"/>
@@ -1117,7 +1247,9 @@
       id="027b0a59-ac13-487f-915b-612c857ae481">
     <bounds
         x="1812"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_633ae405-4902-4525-9024-3015e42aa27f.xml#633ae405-4902-4525-9024-3015e42aa27f"/>
@@ -1127,7 +1259,9 @@
       id="224dd4ac-9b49-4ca3-90d0-7cd88decb24c">
     <bounds
         x="1955"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_364c294f-4368-4ef6-8635-60f6728e7c05.xml#364c294f-4368-4ef6-8635-60f6728e7c05"/>
@@ -1137,7 +1271,9 @@
       id="35075c7b-1a7a-4fbb-9fda-a0ca5e3e616b">
     <bounds
         x="2098"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_6d5cb883-7396-4ca0-aa96-6979d8169dcb.xml#6d5cb883-7396-4ca0-aa96-6979d8169dcb"/>
@@ -1147,7 +1283,9 @@
       id="e30955b6-cfd0-45da-8be4-2ae670c2f11c">
     <bounds
         x="2241"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_b9aa95c4-4d57-4187-8c13-8a972d26795d.xml#b9aa95c4-4d57-4187-8c13-8a972d26795d"/>
@@ -1157,7 +1295,9 @@
       id="bd017a2a-eb52-40dd-b016-8eefb0d88982">
     <bounds
         x="2384"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_043fe8ce-6b83-453e-ab13-f723e125d3ad.xml#043fe8ce-6b83-453e-ab13-f723e125d3ad"/>
@@ -1167,7 +1307,9 @@
       id="83bec013-04dc-4ead-91aa-bf257d787165">
     <bounds
         x="2527"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_0a207f12-1215-4f6a-93b4-ab8e24bda187.xml#0a207f12-1215-4f6a-93b4-ab8e24bda187"/>
@@ -1177,7 +1319,9 @@
       id="f6053dea-3c01-42fe-9c20-cfc4824ee55a">
     <bounds
         x="2670"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_6f6b0bb4-6855-4a8c-a5d2-438e15dcb6ae.xml#6f6b0bb4-6855-4a8c-a5d2-438e15dcb6ae"/>
@@ -1187,7 +1331,9 @@
       id="869c6ede-ed05-4bef-9ab9-593b098cc8c1">
     <bounds
         x="2813"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_a5894536-cbcc-4ca6-b81f-22a334e9da13.xml#a5894536-cbcc-4ca6-b81f-22a334e9da13"/>
@@ -1197,7 +1343,9 @@
       id="e44173f0-d6a3-4c81-8e42-52b9251c368a">
     <bounds
         x="2956"
-        y="1044"/>
+        y="1044"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_21ad0249-7863-40cc-b2fe-2380d00814bd.xml#21ad0249-7863-40cc-b2fe-2380d00814bd"/>
@@ -1207,7 +1355,9 @@
       id="a3dc6951-1c00-4de7-9664-ce778639492a">
     <bounds
         x="1713"
-        y="1164"/>
+        y="1164"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_d88deb0a-76ce-459f-b678-7fb017cb27c3.xml#d88deb0a-76ce-459f-b678-7fb017cb27c3"/>
@@ -1217,7 +1367,9 @@
       id="2d95d73c-3d71-435a-aef1-9e30a2876b16">
     <bounds
         x="1856"
-        y="1164"/>
+        y="1164"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_a9a6db1d-da68-4751-9409-d51b940602af.xml#a9a6db1d-da68-4751-9409-d51b940602af"/>
@@ -1227,7 +1379,9 @@
       id="74dde0cc-ef48-41ec-9aa6-929a26446e35">
     <bounds
         x="1999"
-        y="1164"/>
+        y="1164"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_a5ec7d60-3cf6-470d-8973-db3446f63100.xml#a5ec7d60-3cf6-470d-8973-db3446f63100"/>
@@ -1237,7 +1391,9 @@
       id="49de8f79-db5d-422e-999b-9b40be453e9f">
     <bounds
         x="2142"
-        y="1164"/>
+        y="1164"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_7e7cfb3a-94a7-43fe-bc29-a161fb0cb611.xml#7e7cfb3a-94a7-43fe-bc29-a161fb0cb611"/>
@@ -1247,7 +1403,9 @@
       id="7f696a28-d93d-4a72-a117-3b4eb9c22986">
     <bounds
         x="2285"
-        y="1164"/>
+        y="1164"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_64ba717e-65f5-40bf-b73f-0583c04f8e98.xml#64ba717e-65f5-40bf-b73f-0583c04f8e98"/>
@@ -1257,7 +1415,9 @@
       id="f18dbee7-7a80-4f8d-a83e-751e8b72fafb">
     <bounds
         x="2428"
-        y="1164"/>
+        y="1164"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_eb8e4fbc-763f-475c-9be9-29f792cc2759.xml#eb8e4fbc-763f-475c-9be9-29f792cc2759"/>
@@ -1267,7 +1427,9 @@
       id="eed6fb73-b6b7-4afe-be5c-735a546ed2de">
     <bounds
         x="2571"
-        y="1164"/>
+        y="1164"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_7926816b-bc5a-4543-b734-5891a0f798db.xml#7926816b-bc5a-4543-b734-5891a0f798db"/>
@@ -1277,7 +1439,9 @@
       id="87bfa531-fe34-4293-9c95-1d8602b4df32">
     <bounds
         x="2714"
-        y="1164"/>
+        y="1164"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_4b34bd11-46d9-477d-8a4f-1b909ec79f5b.xml#4b34bd11-46d9-477d-8a4f-1b909ec79f5b"/>
@@ -1287,7 +1451,9 @@
       id="df5db629-8ce4-4f5d-9b41-3ca18d0bcc1f">
     <bounds
         x="2857"
-        y="1164"/>
+        y="1164"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_ed6209ee-0fbd-435e-abba-be604fb5fb63.xml#ed6209ee-0fbd-435e-abba-be604fb5fb63"/>
@@ -1297,7 +1463,9 @@
       id="1e6d30d3-aa46-4b39-adcf-7819ffd4b012">
     <bounds
         x="3000"
-        y="1164"/>
+        y="1164"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_880e883e-748f-45f0-9f64-f85eae6b96b9.xml#880e883e-748f-45f0-9f64-f85eae6b96b9"/>
@@ -1307,7 +1475,9 @@
       id="d8f7a317-ed54-4278-a1f5-188250fed9ba">
     <bounds
         x="2659"
-        y="1308"/>
+        y="1308"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_5a85f3a9-8314-446a-bde7-cb5e96f0e2a3.xml#5a85f3a9-8314-446a-bde7-cb5e96f0e2a3"/>
@@ -1317,7 +1487,9 @@
       id="6dc34b1a-af52-4818-b4a1-4ec8604a11bf">
     <bounds
         x="2802"
-        y="1308"/>
+        y="1308"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_4fce96e2-7c21-43f9-82b3-566c921e2938.xml#4fce96e2-7c21-43f9-82b3-566c921e2938"/>
@@ -1327,7 +1499,9 @@
       id="4106d725-3e59-437e-a92c-07e9f1d95aed">
     <bounds
         x="2945"
-        y="1308"/>
+        y="1308"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_0dfe2e68-88b5-4435-8c56-256a4d85b327.xml#0dfe2e68-88b5-4435-8c56-256a4d85b327"/>

@@ -3,7 +3,7 @@
     name="Combined RAs v.1"
     id="id-model"
     purpose="This  file provides the ArchiMate model of the European Interoperability Reference Architecture (EIRA). The EIRA has been developed in the context of Action of the Interoperability Solutions for European Public Administrations (ISA) Programme. The EIRA is a reference architecture focused on the interoperability of digital public services. It is composed of the most important architecture building blocks needed to promote cross-border and cross-sector interactions between public administrations. It is based on the Service Oriented Architecture style and uses ArchiMate as a modelling notation. The EIRA implements the New European Interoperability Framework (EIF) . &#xA;&#xA;The latest release of the EIRA is available on Joinup: https://joinup.ec.europa.eu/asset/eia/description &#xA;The latest release of the new EIF is available here: https://ec.europa.eu/isa2/eif_en"
-    version="4.4.0">
+    version="4.0.1">
   <properties
       key="difi:default_language"
       value="en"/>

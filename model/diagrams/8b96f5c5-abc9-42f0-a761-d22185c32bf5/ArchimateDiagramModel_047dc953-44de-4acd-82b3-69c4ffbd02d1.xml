@@ -1,4 +1,29 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Test"
-    id="047dc953-44de-4acd-82b3-69c4ffbd02d1"/>
+    id="047dc953-44de-4acd-82b3-69c4ffbd02d1">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="b294d1ed-29de-4c6f-925f-e4de91e7c676"
+      name="Til Henrik og Erik"
+      textAlignment="1">
+    <bounds
+        x="240"
+        y="180"
+        width="337"
+        height="229"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="03f9d2c8-620c-48c5-97a1-2411575969e7">
+      <bounds
+          x="84"
+          y="79"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_9bbfb1a5-bb27-4b33-b06b-e7e70b0b47e6.xml#9bbfb1a5-bb27-4b33-b06b-e7e70b0b47e6"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

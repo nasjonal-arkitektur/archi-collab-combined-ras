@@ -226,7 +226,9 @@
         targetConnections="11d04915-79f4-44d7-b3c6-a6f4eafc3a34">
       <bounds
           x="12"
-          y="522"/>
+          y="522"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_aa9dbae6-c477-4a56-a6d7-2d6829b83962.xml#aa9dbae6-c477-4a56-a6d7-2d6829b83962"/>
@@ -237,7 +239,9 @@
         targetConnections="a6c93cb7-3699-4533-9c5f-55a668952657">
       <bounds
           x="12"
-          y="684"/>
+          y="684"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_f0c8d3b8-a62a-4df1-97b8-09538e8a22b4.xml#f0c8d3b8-a62a-4df1-97b8-09538e8a22b4"/>
@@ -248,7 +252,9 @@
         targetConnections="0f9a2319-bed8-4c9e-9a93-9957ddc1bbc3">
       <bounds
           x="12"
-          y="1494"/>
+          y="1494"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_58cb877a-4a26-43cf-b515-ceaab26145bf.xml#58cb877a-4a26-43cf-b515-ceaab26145bf"/>
@@ -259,7 +265,9 @@
         targetConnections="41b1eb90-295a-44e5-99e8-329926f0d042">
       <bounds
           x="12"
-          y="1818"/>
+          y="1818"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_d0bdc74a-b9a8-4b9a-9fc8-5d03974287c1.xml#d0bdc74a-b9a8-4b9a-9fc8-5d03974287c1"/>
@@ -270,7 +278,9 @@
         targetConnections="7a7e145f-0f56-4c08-b2cb-5a37debd1788">
       <bounds
           x="12"
-          y="198"/>
+          y="198"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_664c90bc-8172-441e-8856-24b7d841c9a2.xml#664c90bc-8172-441e-8856-24b7d841c9a2"/>
@@ -281,7 +291,9 @@
         targetConnections="130049f4-e259-4453-88ac-a5ab1addd7ca">
       <bounds
           x="12"
-          y="846"/>
+          y="846"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_4328f487-1a7b-4966-b474-6812e9574017.xml#4328f487-1a7b-4966-b474-6812e9574017"/>
@@ -292,7 +304,9 @@
         targetConnections="44a7fbf9-5639-45e7-b990-f9333d5d7b21">
       <bounds
           x="12"
-          y="1575"/>
+          y="1575"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_64efd51f-186e-4046-a1ee-05b1bf1d1cba.xml#64efd51f-186e-4046-a1ee-05b1bf1d1cba"/>
@@ -303,7 +317,9 @@
         targetConnections="e9ff3b4e-fbfd-40e6-9d93-9a1817144515">
       <bounds
           x="12"
-          y="765"/>
+          y="765"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_efb2dd55-c805-4cb0-ab04-9d406f5229af.xml#efb2dd55-c805-4cb0-ab04-9d406f5229af"/>
@@ -314,7 +330,9 @@
         targetConnections="c53cf15f-263a-4e30-9103-54660b8140fa">
       <bounds
           x="12"
-          y="279"/>
+          y="279"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_75452608-5d5e-4fe8-8207-70cc6eaefa83.xml#75452608-5d5e-4fe8-8207-70cc6eaefa83"/>
@@ -325,7 +343,9 @@
         targetConnections="ea61184d-ee92-40f2-9079-d659a08dab06">
       <bounds
           x="12"
-          y="1251"/>
+          y="1251"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_1e7532cd-5469-4faf-979a-757dcde8d41d.xml#1e7532cd-5469-4faf-979a-757dcde8d41d"/>
@@ -336,7 +356,9 @@
         targetConnections="1d7a5cb9-bf4b-4889-b343-8bc685857d7d">
       <bounds
           x="12"
-          y="1413"/>
+          y="1413"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_8c37bf86-3484-4e24-934b-bf0f2d05cebd.xml#8c37bf86-3484-4e24-934b-bf0f2d05cebd"/>
@@ -347,7 +369,9 @@
         targetConnections="616f2f59-0fe2-47f0-9ceb-65c32aca365d">
       <bounds
           x="12"
-          y="927"/>
+          y="927"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_11c90b40-e4bc-40e5-805e-a9c044be1b87.xml#11c90b40-e4bc-40e5-805e-a9c044be1b87"/>
@@ -358,7 +382,9 @@
         targetConnections="13e76fab-caf3-44b7-8cd8-d14911dea342">
       <bounds
           x="12"
-          y="1737"/>
+          y="1737"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_d7521b92-4f60-4c29-b037-f69e01f6baec.xml#d7521b92-4f60-4c29-b037-f69e01f6baec"/>
@@ -369,7 +395,9 @@
         targetConnections="e3bec905-3ea4-4ccc-ae7b-a6c215f8fd23">
       <bounds
           x="12"
-          y="1170"/>
+          y="1170"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_d6feb0a6-5740-4afe-8523-9cfcf9487cb0.xml#d6feb0a6-5740-4afe-8523-9cfcf9487cb0"/>
@@ -380,7 +408,9 @@
         targetConnections="c0c8f397-3094-4437-a5bb-cfe270f7a578">
       <bounds
           x="12"
-          y="1008"/>
+          y="1008"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_c204b73c-2142-4995-9f69-4ab7a5108202.xml#c204b73c-2142-4995-9f69-4ab7a5108202"/>
@@ -391,7 +421,9 @@
         targetConnections="8dd4917e-9310-4e09-946a-84dfe9fc9bd7">
       <bounds
           x="12"
-          y="117"/>
+          y="117"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_f2b820c2-fa2c-4124-b761-61a3284a0926.xml#f2b820c2-fa2c-4124-b761-61a3284a0926"/>
@@ -402,7 +434,9 @@
         targetConnections="86b87952-c723-40f7-8294-6bb5a1d5c3f6">
       <bounds
           x="12"
-          y="360"/>
+          y="360"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_b59c4fb5-694c-4197-a588-af56e2257f51.xml#b59c4fb5-694c-4197-a588-af56e2257f51"/>
@@ -413,7 +447,9 @@
         targetConnections="ea5fc8d8-c28e-49e1-bcde-4272cd7ef80c">
       <bounds
           x="12"
-          y="441"/>
+          y="441"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_8b82cb39-78c2-43d4-b43b-29c72af9b23d.xml#8b82cb39-78c2-43d4-b43b-29c72af9b23d"/>
@@ -424,7 +460,9 @@
         targetConnections="56048a2d-a88f-4a7d-a5a0-98e758084857">
       <bounds
           x="12"
-          y="1089"/>
+          y="1089"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_d5a796f5-5fb4-47de-9c34-7d8453a4d7ae.xml#d5a796f5-5fb4-47de-9c34-7d8453a4d7ae"/>
@@ -435,7 +473,9 @@
         targetConnections="e5b0afcb-2128-4615-8023-c5646af03653">
       <bounds
           x="12"
-          y="603"/>
+          y="603"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_cb65f201-3328-4f26-a134-2ae5c2864992.xml#cb65f201-3328-4f26-a134-2ae5c2864992"/>
@@ -446,7 +486,9 @@
         targetConnections="f2eccd71-d5ee-4cc7-be6a-ffac25ad416c">
       <bounds
           x="12"
-          y="36"/>
+          y="36"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_b65c6563-17f0-4e27-aa1d-993049dcc0bd.xml#b65c6563-17f0-4e27-aa1d-993049dcc0bd"/>
@@ -457,7 +499,9 @@
         targetConnections="5316cfd3-17d0-45bc-bdc8-6a8772366557">
       <bounds
           x="12"
-          y="1332"/>
+          y="1332"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_31421e8f-e411-4a10-b65a-f17722423094.xml#31421e8f-e411-4a10-b65a-f17722423094"/>
@@ -468,7 +512,9 @@
         targetConnections="2a486d64-7237-4c7b-a95f-d4a1bfffcbef">
       <bounds
           x="12"
-          y="1656"/>
+          y="1656"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_2ad0e956-45f0-44b6-88c9-14b0372d592f.xml#2ad0e956-45f0-44b6-88c9-14b0372d592f"/>

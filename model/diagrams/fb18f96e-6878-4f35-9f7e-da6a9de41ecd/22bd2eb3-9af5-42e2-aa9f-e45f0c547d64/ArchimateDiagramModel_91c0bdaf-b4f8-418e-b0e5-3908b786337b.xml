@@ -116,7 +116,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_1aa16f04-024a-4f88-90df-a50a20ea1ccd.xml#1aa16f04-024a-4f88-90df-a50a20ea1ccd"/>
@@ -207,7 +209,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="48"/>
+            y="48"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_a94827d8-5ed3-4467-b6b3-145daeca59ef.xml#a94827d8-5ed3-4467-b6b3-145daeca59ef"/>
@@ -219,7 +223,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="554"/>
+            y="554"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_04a75b0c-642e-439c-a935-ee67612f9bb7.xml#04a75b0c-642e-439c-a935-ee67612f9bb7"/>
@@ -231,7 +237,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="468"/>
+            y="468"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_218c7304-5c46-43a0-8f83-9e9478e7622f.xml#218c7304-5c46-43a0-8f83-9e9478e7622f"/>
@@ -243,7 +251,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="216"/>
+            y="216"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_7d55c1bc-3276-48a5-b5e3-c08de5e1b141.xml#7d55c1bc-3276-48a5-b5e3-c08de5e1b141"/>
@@ -255,7 +265,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="384"/>
+            y="384"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_d73dc0ba-f1f8-45d8-8d37-23386d501c33.xml#d73dc0ba-f1f8-45d8-8d37-23386d501c33"/>
@@ -267,7 +279,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="300"/>
+            y="300"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_2bbe6dc3-2efd-41e6-85a0-c98792ee8c32.xml#2bbe6dc3-2efd-41e6-85a0-c98792ee8c32"/>
@@ -279,7 +293,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="132"/>
+            y="132"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_d6ba8967-a25d-4402-81f0-7eeccc1b98c9.xml#d6ba8967-a25d-4402-81f0-7eeccc1b98c9"/>
@@ -316,7 +332,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_a0acb8ee-09a6-4325-a0ff-4ce820f227e2.xml#a0acb8ee-09a6-4325-a0ff-4ce820f227e2"/>
@@ -363,7 +381,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="132"/>
+            y="132"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_837d6ff2-1758-4a92-8b3a-a8a32aa37b54.xml#837d6ff2-1758-4a92-8b3a-a8a32aa37b54"/>
@@ -376,7 +396,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="48"/>
+            y="48"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_8498ab85-5ce2-4376-8f00-8f8121630088.xml#8498ab85-5ce2-4376-8f00-8f8121630088"/>
@@ -422,7 +444,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="48"/>
+            y="48"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_b9185c93-2816-4c0c-b5fc-600630488024.xml#b9185c93-2816-4c0c-b5fc-600630488024"/>
@@ -434,7 +458,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="132"/>
+            y="132"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_6f531b4b-be6c-455a-a2d6-98d94c9e5678.xml#6f531b4b-be6c-455a-a2d6-98d94c9e5678"/>
@@ -498,7 +524,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="48"/>
+            y="48"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_4adf0e0b-8a69-41a7-a290-1e8f136480a0.xml#4adf0e0b-8a69-41a7-a290-1e8f136480a0"/>
@@ -510,7 +538,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="300"/>
+            y="300"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_7c2cb8ed-d4e0-4267-a5b8-502c7ad83772.xml#7c2cb8ed-d4e0-4267-a5b8-502c7ad83772"/>
@@ -522,7 +552,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="132"/>
+            y="132"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_4061b9af-0d11-4d0c-afc7-092631e3dfbd.xml#4061b9af-0d11-4d0c-afc7-092631e3dfbd"/>
@@ -535,7 +567,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="216"/>
+            y="216"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_e8ba2945-e5b4-462b-96ef-aa90d6135035.xml#e8ba2945-e5b4-462b-96ef-aa90d6135035"/>
@@ -582,7 +616,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="120"/>
+            y="120"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_4d08a3aa-2816-4244-9aa6-aacdb52db60d.xml#4d08a3aa-2816-4244-9aa6-aacdb52db60d"/>
@@ -595,7 +631,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_8d26e7d9-7175-42cb-9af4-ff10ce83cd7f.xml#8d26e7d9-7175-42cb-9af4-ff10ce83cd7f"/>
@@ -633,7 +671,9 @@
           textPosition="1">
         <bounds
             x="12"
-            y="36"/>
+            y="36"
+            width="120"
+            height="55"/>
         <archimateElement
             xsi:type="archimate:Resource"
             href="Resource_2b7e0ac5-706a-41b0-9bb8-dcb9e4d39e87.xml#2b7e0ac5-706a-41b0-9bb8-dcb9e4d39e87"/>

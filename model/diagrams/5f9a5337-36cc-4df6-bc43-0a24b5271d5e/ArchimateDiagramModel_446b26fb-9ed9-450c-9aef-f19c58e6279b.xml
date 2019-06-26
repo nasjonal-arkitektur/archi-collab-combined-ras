@@ -9040,7 +9040,9 @@
         targetConnections="da326507-7ede-4963-aa1a-370c61d0fdaf">
       <bounds
           x="12"
-          y="204"/>
+          y="204"
+          width="133"
+          height="71"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_58ea3aa5-8ba7-4e5f-93dc-5de0b0b7aa9c.xml#58ea3aa5-8ba7-4e5f-93dc-5de0b0b7aa9c"/>
